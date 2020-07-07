@@ -2,6 +2,6 @@
 
 int 
 main(void){
-	printf("Hola mundo, Boca");
+	printf("Hola mundo, Boca Juniors");
 	return 0;
 }
